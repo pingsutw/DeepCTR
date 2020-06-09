@@ -1,0 +1,25 @@
+start NFM :
+Train on 1280000 samples, validate on 320000 samples
+Epoch 1/10
+1280000/1280000 - 990s - loss: 0.4914 - binary_crossentropy: 0.4776 - val_loss: 0.4916 - val_binary_crossentropy: 0.4726
+Epoch 2/10
+1280000/1280000 - 952s - loss: 0.4837 - binary_crossentropy: 0.4620 - val_loss: 0.4933 - val_binary_crossentropy: 0.4725
+Epoch 3/10
+1280000/1280000 - 945s - loss: 0.4827 - binary_crossentropy: 0.4596 - val_loss: 0.4953 - val_binary_crossentropy: 0.4736
+Epoch 4/10
+1280000/1280000 - 939s - loss: 0.4823 - binary_crossentropy: 0.4580 - val_loss: 0.4935 - val_binary_crossentropy: 0.4709
+Epoch 5/10
+1280000/1280000 - 936s - loss: 0.4819 - binary_crossentropy: 0.4566 - val_loss: 0.4953 - val_binary_crossentropy: 0.4717
+Epoch 6/10
+1280000/1280000 - 937s - loss: 0.4817 - binary_crossentropy: 0.4554 - val_loss: 0.4940 - val_binary_crossentropy: 0.4696
+Epoch 7/10
+1280000/1280000 - 925s - loss: 0.4813 - binary_crossentropy: 0.4543 - val_loss: 0.4948 - val_binary_crossentropy: 0.4695
+Epoch 8/10
+1280000/1280000 - 922s - loss: 0.4811 - binary_crossentropy: 0.4533 - val_loss: 0.4956 - val_binary_crossentropy: 0.4699
+Epoch 9/10
+1280000/1280000 - 928s - loss: 0.4808 - binary_crossentropy: 0.4523 - val_loss: 0.4979 - val_binary_crossentropy: 0.4715
+Epoch 10/10
+1280000/1280000 - 937s - loss: 0.4806 - binary_crossentropy: 0.4514 - val_loss: 0.4974 - val_binary_crossentropy: 0.4702
+test LogLoss 0.4694
+test AUC 0.7744
+run time 9474.180898189545
